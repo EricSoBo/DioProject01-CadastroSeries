@@ -1,0 +1,16 @@
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.exe
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.deps.json
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.runtimeconfig.json
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.runtimeconfig.dev.json
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.dll
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\ref\DioProject.dll
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\bin\Debug\net5.0\DioProject.pdb
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.csproj.AssemblyReference.cache
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.AssemblyInfoInputs.cache
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.AssemblyInfo.cs
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.csproj.CoreCompileInputs.cache
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.dll
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\ref\DioProject.dll
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.pdb
+C:\Users\Leninha\Desktop\DotNetProjects\DioProject\obj\Debug\net5.0\DioProject.genruntimeconfig.cache
